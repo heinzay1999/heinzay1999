@@ -8,15 +8,19 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Python / C/C++ / R / IBM Qiskit / AutoCAD / AutoCAD Inventor /  Catia / 
 
-* 
+## Research Experience ##
+
+
+## Machine Learning ##
+
+## Quantum Computing ##
+
+
+## Portfolio Optimization ##
 
 
 
 
-
-
-
-- 🔭 I’m currently working on becoming a quantitative developer and researcher. 
 
 
 
