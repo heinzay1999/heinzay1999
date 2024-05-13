@@ -1,18 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I'm Hein
+#### I am an engineer with interest in machine learning, data science, and quantum computing.
+![I am an engineer with interest in machine learning, data science, and quantum computing.]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fquantum-computers-in-2023-how-they-work-what-they-do-and-where-theyre-heading-215804&psig=AOvVaw0o0Sv3vOLIINb3vGr9p71I&ust=1715710653080000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjtiLKei4YDFQAAAAAdAAAAABAS))
 
-Trying out my DS/ ML/ Quantum portfolios!! Not sure what to put here yet. 
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<!--
-**heinzay1999/heinzay1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming Languages and Software 
 
-Here are some ideas to get you started:
+Python / C/C++ / R / IBM Qiskit / AutoCAD / AutoCAD Inventor /  Catia / 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 
+
+
+
+
+
+
+
+- 🔭 I’m currently working on becoming a quantitative developer and researcher. 
+
+
+
+
